@@ -1,0 +1,1 @@
+print(input("Nhập vào 1 chuỗi bất kỳ: "))
