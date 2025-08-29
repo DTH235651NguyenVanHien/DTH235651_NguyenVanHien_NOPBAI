@@ -1,0 +1,5 @@
+Các loại ghi chú trong Python
+
+Ghi chú một dòng: dùng dấu #.
+
+Ghi chú nhiều dòng: đặt trong cặp dấu ''' ... ''' hoặc """ ... """.

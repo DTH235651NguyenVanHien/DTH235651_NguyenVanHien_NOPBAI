@@ -1,0 +1,15 @@
+Ý nghĩa các toán tử
+
+/ : chia lấy kết quả thực.
+
+// : chia lấy phần nguyên.
+
+% : chia lấy số dư.
+
+** : lũy thừa.
+
+and : phép logic "và".
+
+or : phép logic "hoặc".
+
+is : so sánh hai biến có trỏ đến cùng một đối tượng trong bộ nhớ hay không.

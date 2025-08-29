@@ -5,3 +5,5 @@ chieu_rong = max(so_sao)
 for n in so_sao:
     khoang_trang = (chieu_rong - n) // 2
     print(" " * khoang_trang + "*" * n)
+
+   

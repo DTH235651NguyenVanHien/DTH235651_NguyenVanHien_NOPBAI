@@ -1,0 +1,9 @@
+Các loại lỗi và cách bắt lỗi
+
+Lỗi cú pháp (SyntaxError): viết sai quy tắc ngôn ngữ.
+
+Lỗi logic: chương trình chạy nhưng kết quả sai.
+
+Lỗi thực thi (Runtime Error): lỗi xảy ra khi chạy (chia cho 0, sai kiểu dữ liệu...).
+
+Cách bắt lỗi: sử dụng cấu trúc try ... except ... finally.
