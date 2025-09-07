@@ -1,0 +1,12 @@
+range(20, 100, 5) → bắt đầu từ 20, dừng trước 100, bước nhảy 5.
+
+Dãy số a sẽ là:
+
+20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95
+
+
+Tổng cộng có 16 số → vòng lặp chạy 16 lần.
+
+Mỗi lần in ra 1 dấu * → 16 dấu *.
+
+✅ Kết luận: Màn hình sẽ in 16 dấu *.

@@ -1,0 +1,13 @@
+Ban đầu n = 0, m = 100.
+
+while n != m: → vòng lặp chạy cho đến khi n = m.
+
+Trong vòng lặp:
+
+Nhập n từ bàn phím.
+
+Nếu n < 0 → dùng break để thoát vòng lặp ngay lập tức.
+
+Sau vòng lặp → in giá trị n.
+
+Hiệu quả tương tự như biến done, nhưng ngắn gọn hơn và không cần biến phụ.

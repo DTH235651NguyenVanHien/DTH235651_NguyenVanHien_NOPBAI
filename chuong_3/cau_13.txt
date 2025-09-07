@@ -1,0 +1,11 @@
+Bước phân tích:
+
+a = 0 → biến a được gán 0.
+
+while a < 100: → vòng lặp chạy miễn là a < 100.
+
+Bên trong vòng lặp: print('*', end='') → in ra dấu * không xuống dòng.
+
+Vấn đề: biến a không được tăng lên trong vòng lặp → a luôn = 0 → điều kiện a < 100 luôn đúng.
+
+Kết quả: vòng lặp chạy vô hạn, in liên tục dấu * mà không dừng → số * là vô hạn.

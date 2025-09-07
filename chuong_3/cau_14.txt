@@ -1,0 +1,11 @@
+Vòng ngoài: a chạy từ 0 đến 99 → tổng 100 dòng.
+
+Vòng trong: b chạy từ 0 đến 39 → tổng 40 cột.
+
+Điều kiện: (a + b) % 2 == 0 → in * khi tổng a+b là số chẵn.
+
+Trong 40 cột (b = 0..39): luôn có 20 số chẵn, 20 số lẻ → 20 dấu * mỗi dòng.
+
+Tổng số dòng: 100 → 100 × 20 = 2000 dấu *
+
+Kết luận: Màn hình sẽ in ra 2000 dấu *.
