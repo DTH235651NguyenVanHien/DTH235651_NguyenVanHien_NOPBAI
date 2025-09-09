@@ -1,0 +1,61 @@
+1. 🔹 Hàm thay đổi chữ hoa – chữ thường
+
+s.upper() → đổi thành chữ hoa.
+
+s.lower() → đổi thành chữ thường.
+
+s.title() → viết hoa chữ cái đầu mỗi từ.
+
+s.capitalize() → viết hoa chữ cái đầu tiên của chuỗi.
+
+s.swapcase() → đảo ngược hoa ↔ thường.
+
+2. 🔹 Hàm loại bỏ khoảng trắng/ký tự
+
+s.strip() → bỏ khoảng trắng đầu/cuối.
+
+s.lstrip() → bỏ khoảng trắng bên trái.
+
+s.rstrip() → bỏ khoảng trắng bên phải.
+
+3. 🔹 Tìm kiếm và thay thế
+
+s.find(sub) → trả về vị trí sub (hoặc -1 nếu không thấy).
+
+s.index(sub) → giống find nhưng báo lỗi nếu không thấy.
+
+s.count(sub) → đếm số lần xuất hiện.
+
+s.replace(old, new) → thay thế chuỗi con.
+
+4. 🔹 Kiểm tra chuỗi
+
+s.isalpha() → chỉ chứa chữ cái?
+
+s.isdigit() → chỉ chứa số?
+
+s.isalnum() → chỉ chứa chữ + số?
+
+s.islower() / s.isupper() → toàn bộ thường/hoa?
+
+s.isspace() → chỉ toàn khoảng trắng?
+
+5. 🔹 Cắt chuỗi
+
+s.split(sep) → tách thành list theo ký tự sep.
+
+sep.join(list) → nối list thành chuỗi.
+
+6. 🔹 Kiểm tra bắt đầu/kết thúc
+
+s.startswith(prefix) → chuỗi bắt đầu bằng prefix?
+
+s.endswith(suffix) → chuỗi kết thúc bằng suffix?
+
+7. 🔹 Định dạng chuỗi
+
+f"..." (f-string) → chèn biến vào chuỗi.
+
+"{}".format(value) → format.
+
+% → format kiểu cũ.

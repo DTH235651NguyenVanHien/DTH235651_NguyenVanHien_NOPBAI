@@ -1,0 +1,7 @@
+Giá trị nhỏ nhất: 0
+
+Giá trị lớn nhất: 99 (vì 100 không được lấy)
+
+Các giá trị có thể xuất hiện: tất cả các số nguyên từ 0, 1, 2, ..., 99.
+
+Tổng cộng có 100 giá trị.
