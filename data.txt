@@ -1,0 +1,32 @@
+{
+  "danhmucs": [
+    {
+      "ma": "DM01",
+      "ten": "Điện thoại"
+    },
+    {
+      "ma": "DM02",
+      "ten": "Laptop"
+    }
+  ],
+  "sanphams": [
+    {
+      "ma": "SP03",
+      "ten": "Samsung S24",
+      "dongia": 22000000,
+      "ma_danhmuc": "DM01"
+    },
+    {
+      "ma": "SP01",
+      "ten": "iPhone 15",
+      "dongia": 25000000,
+      "ma_danhmuc": "DM01"
+    },
+    {
+      "ma": "SP02",
+      "ten": "Macbook Air",
+      "dongia": 30000000,
+      "ma_danhmuc": "DM02"
+    }
+  ]
+}
